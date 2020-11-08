@@ -816,4 +816,6 @@ NTIRE 2020. [[PDF](https://arxiv.org/abs/2005.03155)]
 
 **AIM 2019 Challenge on Video Temporal Super-Resolution: Methods and Results.**<br>
 *Seungjun Nah, Sanghyun Son, Radu Timofte, Kyoung Mu Lee.*<br>
-ICCV 2019 Workshop: Advances in Image Manipulation. [[](https://arxiv.org/abs/2005.01233)]
+ICCV 2019 Workshop: Advances in Image Manipulation. [[PDF](https://arxiv.org/abs/2005.01233)]
+
+
